@@ -105,7 +105,7 @@ Site: https://carolezeq-analist.github.io/projeto.cnpq_2026/
 
 ### Requirements
 ```bash
-pip install -r requirements.txt
+pip install
 geopandas>=0.12.0
 pandas>=1.5.0
 numpy>=1.24.0
