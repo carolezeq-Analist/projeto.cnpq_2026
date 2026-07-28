@@ -98,6 +98,7 @@ ERI = 0.4 × Change + 0.3 × Hydrography + 0.3 × Slope
 | Vegetation | 42,450 ha |
 | Pasture | 20,050 ha |
 
+Site: https://carolezeq-analist.github.io/projeto.cnpq_2026/
 ---
 
 ##  Installation
