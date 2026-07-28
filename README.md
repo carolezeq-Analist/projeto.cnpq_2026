@@ -9,11 +9,11 @@
 
 ---
 
-## 📋 Overview
+##  Overview
 
 This project analyzes land use change in **Três Lagoas, Mato Grosso do Sul, Brazil**, focusing on the conversion between native vegetation and pasture in the Cerrado biome. Using **MODIS NDVI time series data (2018-2024)** and **Random Forest classification**, we detect vegetation loss, project future scenarios, and create an **Environmental Risk Index (ERI)**.
 
-### 🎯 Key Objectives
+###  Key Objectives
 
 - **Detect vegetation-to-pasture conversion** between 2018 and 2024
 - **Project land use trends** to 2030 using linear modeling
